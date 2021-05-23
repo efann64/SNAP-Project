@@ -1,1 +1,3 @@
 # SNAP-Project
+
+This project looks at 2007 and 2017 US census data to identify key features that can be connected to food insecurity and seeks to predict what areas of the country are more likely to be eligable for SNAP benifits in 2018 based on these identified features.  2007 was selected because data was taken right before the housing crash, and 2017 was selected because it represents a 10 year 'recovery' period.  BY identifying the issues that are connected to food insecurity, goverments can target those features with aassistance programs and ideally reduce the number of people who may end up needing SNAP benifits in the process.
